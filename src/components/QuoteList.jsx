@@ -15,7 +15,11 @@ const QuoteList = () => {
         getQuotes()
     },[change]
     )
-
+    
+// const handleClick = () => {
+//     setChange(qqch);
+//     setQuotes(qqch)
+// }
 
     return(
 
